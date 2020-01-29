@@ -4,6 +4,7 @@ A self-hosted ModMail bot for big servers.
 ***
 
 Example:
+
 ![Example](https://cdn.discordapp.com/attachments/672078110971265034/672097964725895193/unknown.png)
 
 ***
